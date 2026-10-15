@@ -6,7 +6,7 @@ public class Debug2 {
 
         System.out.println("Imprimiendo elementos del 1 al " + totalElementos + ":");
 
-        for (int i = 1; i <= totalElementos; i++) { // CORRECCIÓN: <= en lugar de <
+        for (int i = 1; i <= totalElementos; i++) {
             System.out.println("Elemento " + i);
         }
     }
